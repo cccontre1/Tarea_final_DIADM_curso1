@@ -1,0 +1,4 @@
+*.zip
+Datos/
+.ipynb*
+.virtual_documents/
